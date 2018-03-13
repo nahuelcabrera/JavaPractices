@@ -12,5 +12,6 @@ public class ManipulacionCadenasIII
 
         System.out.println(alumno1.equalsIgnoreCase(alumno2));
         System.out.println(alumno1.equals(alumno3));
+
     }
 }
